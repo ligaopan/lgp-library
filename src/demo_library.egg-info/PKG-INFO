@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: demo-library
+Version: 0.0.6
+Summary: library for Robot Framework
+Home-page: https://github.com/ligaopan/lgp-library
+Author: ligaopan
+Author-email: ligaopan1984@163.com
+License: MIT Licence
+Description: library for Robot Framework
+Keywords: robotframework testing testautomation
+Platform: any
+Requires-Python: >=3.7.*
