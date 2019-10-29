@@ -12,7 +12,7 @@ print(CURDIR)
 #     REQUIREMENTS = f.read().splitlines()
 setup(
     name             = 'demo_library',
-    version          = '0.0.6',
+    version          = '0.0.7',
     description      = 'library for Robot Framework',
     long_description = 'library for Robot Framework',
     author           = 'ligaopan',
